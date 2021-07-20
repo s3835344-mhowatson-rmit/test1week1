@@ -2,9 +2,11 @@ Commands
   git init
   git status
   git add
+  git add *.txt (all files with .txt will get added)
+  git add *.* (everything will get added)
+  git add . (add everything in the folder)
   git commit -m "commit message"
-  git commit -a
-
+  
   non git Command
   create file in terminal
   touch FileName.html
