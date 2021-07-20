@@ -11,3 +11,10 @@ Commands
   create file in terminal
   touch FileName.html
   for example
+
+  adding github email and username to git
+  git config --global user.email "s3835344@student.rmit.edu.au"
+  git config --global user.name "s3835344-mhowatson-rmit"
+
+  showing hidden files within the folder that you are in
+  defaults write com.apple.finder AppleShowAllFiles YES
