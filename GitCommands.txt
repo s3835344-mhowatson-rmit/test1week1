@@ -9,6 +9,13 @@ Commands
 
   git remote add origin "InsertGitHubURL - or location of remote repository"
   git push origin master
+
+  remove origin
+  git remote rm <remote-url>
+  git remote remove [name of the remote]
+    git branch -a     : See both local and remote branches.
+    git branch -r     : See only remote branches.
+    git remote show   : See remote branches and associated metadata.
   
   non git Command
   create file in terminal
@@ -18,7 +25,7 @@ Commands
   adding github email and username to git
   git config --global user.email "s3835344@student.rmit.edu.au"
   git config --global user.name "s3835344-mhowatson-rmit"
-
+ 
   showing hidden files within the folder that you are in
   defaults write com.apple.finder AppleShowAllFiles YES
   hide hidden files within the folder that you are in
