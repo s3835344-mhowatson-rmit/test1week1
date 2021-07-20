@@ -6,6 +6,9 @@ Commands
   git add *.* (everything will get added)
   git add . (add everything in the folder)
   git commit -m "commit message"
+
+  git remote add origin "InsertGitHubURL - or location of remote repository"
+  git push origin master
   
   non git Command
   create file in terminal
