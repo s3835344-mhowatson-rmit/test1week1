@@ -21,3 +21,5 @@ Commands
 
   showing hidden files within the folder that you are in
   defaults write com.apple.finder AppleShowAllFiles YES
+  hide hidden files within the folder that you are in
+  defaults write com.apple.finder AppleShowAllFiles NO
