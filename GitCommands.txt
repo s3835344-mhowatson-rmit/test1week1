@@ -2,3 +2,10 @@ Commands
   git init
   git status
   git add
+  git commit -m "commit message"
+  git commit -a
+
+  non git Command
+  create file in terminal
+  touch FileName.html
+  for example
